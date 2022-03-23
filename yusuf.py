@@ -13,4 +13,5 @@ for i in range(1,num +1) :
     x += 2
     if i != x :
       print((" * "*(i-x)).center(int(num/2)*3,"-"))
+print("mahmut tuncer")
 
